@@ -1,0 +1,24 @@
+div{
+    width: 600px;
+    height: 350px;
+    background-color:rgb(46, 136, 192);
+
+}
+
+img{
+    height: 350px;
+    float: left;
+}
+
+h1{
+    color: aliceblue;
+}
+
+p{
+    color: azure;
+}
+
+body{
+    background-image: url("https://img.freepik.com/premium-vector/turquoise-rippled-water-texture-background-sea-waves-abstract-background_985938-1328.jpg?semt=ais_hybrid&w=740");
+}
+   
